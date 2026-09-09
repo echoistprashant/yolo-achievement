@@ -1,2 +1,3 @@
-# yolo-achievement
-Testing GitHub YOLO achievement
+# GitHub YOLO Achievement
+
+Learning GitHub Pull Requests.
